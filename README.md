@@ -10,6 +10,7 @@ Boruların arasından kuş uçurmaya çalışılan Flappy Bird oyununun Java ver
 4) Projeyi <b>clone</b>'ladığınızda bilgisayarınızda oluşan klasörün altındaki <b>src</b> klasörünü seçip import edin.
 5) <b>resources</b> klasörünü de seçip import işlemini tamamlayın.
 6) <b>Main.java</b> dosyasını çalıştırın.
+7) Boşluk tuşu ile kuşu havada zıplatırsınız. Kuş aşağı düşerse veya borulara değerse oyun biter!
 <p>Keyifli oyunlar, bol skorlar...</p>
 
 ## Durum
