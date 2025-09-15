@@ -14,5 +14,5 @@ Boruların arasından kuş uçurmaya çalışılan Flappy Bird oyununun Java ver
 
 ## Durum
 ![Dosya Boyutu](https://img.shields.io/badge/5%2C73%20KB-gray?style=flat&logo=github&label=file%20size&color=green)
-![GitHub Repo Boyutu](https://img.shields.io/github/repo-size/kaansahin04/flappy-bird_java?logo=github&color=green)
-![Programlama Dili](https://img.shields.io/github/languages/top/kaansahin04/Flappy-Bird_Java?color=A49410)
+![GitHub Repo Boyutu](https://img.shields.io/github/repo-size/kaansahin04/Flappy-Bird_Java?logo=github&color=green)
+![Programlama Dili](https://img.shields.io/github/languages/top/kaansahin04/flappy-bird_java?color=A49410)
